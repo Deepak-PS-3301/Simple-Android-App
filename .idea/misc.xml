@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mzc/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/btn.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/mzc/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/btn2.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/mzc/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/btn3.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/mzc/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/btn4.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/mzc/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/mybg.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/mzc/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/mybg2.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/mzc/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/regpassword.xml" value="0.2203125" />
+        <entry key="..\:/Users/mzc/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/mzc/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_register.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
